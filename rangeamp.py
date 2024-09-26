@@ -12,7 +12,6 @@ shutdown: bool = False
 console = Console()
 NUM_THREADS = os.cpu_count() * 2
 MAX_RANGE_SIZE = 10000  # Limit the range size to avoid amplification
-#https://cdn.nowlms.com/2489/mobile/03/09.mp4
 
 async def generate_safe_range_header() -> str:
     """Generate a safe range header."""
