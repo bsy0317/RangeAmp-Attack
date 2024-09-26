@@ -4,22 +4,24 @@
 </p>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff"> <img src="https://img.shields.io/badge/AIOHTTP-2C5BB4?style=flat-square&logo=aiohttp&logoColor=ffffff">
+
 ### 🧐 Overview
+<hr>
 
 **RangeAmp** is a Python-based tool designed for testing and demonstrating **HTTP Range Request** amplification attacks.  
 The tool leverages Small Byte Range (SBR) and Large Byte Range (LBR) requests to evaluate server/CDN responses.
 
   
 ### ⚙️ Features
+<hr>
 
 - Small Byte Range (SBR) attack.
-
 - Large Byte Range (LBR) attack.
 
   
 
 ### 🤔 Usage
-
+<hr>
   
 1. ⬇️ Clone the repository:
 
